@@ -53,7 +53,7 @@
   "3.3 knn_predict": true,
   "4.2–4.3 prompt / parse_label": true,
   "4.1 + 4.4 call_openai / llm_classify_batch": true,
-  "tính tay: baseline_accuracy": false,
+  "tính tay: baseline_accuracy": true,
   "tính tay: sigmoid_0": true,
   "tính tay: f1_example": true,
   "tính tay: cosine_example": true,
